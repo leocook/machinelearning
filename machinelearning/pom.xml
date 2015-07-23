@@ -8,5 +8,6 @@
   
   <modules>
   	<module>algorithm_realized</module>
+  	<module>mahout-recommendation</module>
   </modules>
 </project>
